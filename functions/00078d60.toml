@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:49:39.018019Z
+addr = 0x78d60
+size = 0xf6
+name = "SDL_SetRelativeMouseMode"
+type = "char"
+
+[header]
+name = "SDL_SetRelativeMouseMode"
+addr = 0x78d60
+type = "char"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:49:39.008910Z
+addr = 0x778e0
+size = 0x39
+name = "SDL_MouseWarpEmulationChanged"
+type = "long long"
+
+[header]
+name = "SDL_MouseWarpEmulationChanged"
+addr = 0x778e0
+type = "long long"
+
+[header.args]
